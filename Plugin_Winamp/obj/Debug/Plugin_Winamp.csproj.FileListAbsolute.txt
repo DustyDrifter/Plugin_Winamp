@@ -1,0 +1,19 @@
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.Config.resources
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.csproj.GenerateResource.Cache
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\Plugin_Winamp.dll
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\Plugin_Winamp.pdb
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\Bass.Net.dll
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\PluginInterface.dll
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.dll
+C:\Documents and Settings\Jason Snow\My Documents\Visual Studio 2008\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.pdb
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\Plugin_Winamp.dll
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\Plugin_Winamp.pdb
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\Bass.Net.dll
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\bin\Debug\PluginInterface.dll
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.Config.resources
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.dll
+C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp\obj\Debug\Plugin_Winamp.pdb

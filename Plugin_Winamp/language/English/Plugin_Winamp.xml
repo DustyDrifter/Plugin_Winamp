@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>Culture</Key>
+    <Value>en-US</Value>
+  </Settings>
+  
+  <!-- Translations Start --> 
+
+  <Settings>
+    <Key>Config</Key>
+    <Value>Winamp Plugins - Settings</Value>
+  </Settings>
+
+  <Settings>
+    <Key>groupBox1</Key>
+    <Value>Winamp Plugins folder</Value>
+  </Settings>
+
+  <Settings>
+    <Key>button1</Key>
+    <Value>Browse</Value>
+  </Settings>
+
+  <Settings>
+    <Key>groupBox2</Key>
+    <Value>DSP List</Value>
+  </Settings>
+
+  <Settings>
+    <Key>label1</Key>
+    <Value>Selected module:</Value>
+  </Settings>
+
+  <Settings>
+    <Key>button4</Key>
+    <Value>Settings</Value>
+  </Settings>
+
+  <Settings>
+    <Key>button5</Key>
+    <Value>Start</Value>
+  </Settings>
+
+  <Settings>
+    <Key>button3</Key>
+    <Value>Stop</Value>
+  </Settings>
+
+  <Settings>
+    <Key>button2</Key>
+    <Value>Refresh list</Value>
+  </Settings>
+
+</NewDataSet>

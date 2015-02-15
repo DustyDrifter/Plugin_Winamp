@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Plugin_Winamp">
+</Property><Property Name="Solution File" Value="C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Plugin_Winamp.suo">
+</Property><Property Name="Date" Value="Saturday, July 26, 2014">
+</Property><Property Name="Time" Value="14:44">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Plugin_Winamp.sln" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Plugin_Winamp.suo" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp.suo">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Plugin_Winamp.csproj" Description="Project file successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Plugin_Winamp.csproj">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Plugin_Winamp.csproj.user" Description="Project user file successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Plugin_Winamp.csproj.user">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Class1.cs" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Class1.cs">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Config.cs" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Config.cs">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Config.Designer.cs" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Config.Designer.cs">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Var.cs" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Var.cs">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Config.resx" Description="File successfully backed up as C:\Users\Jason Snow\Documents\Visual Studio 2010\Projects\Plugin_Winamp\Backup\Plugin_Winamp\Config.resx">
+</Event><Event ErrorLevel="1" Project="Plugin_Winamp" Source="Plugin_Winamp\Plugin_Winamp.csproj" Description="Your project is targeting .NET Framework 2.0 or 3.0. If your project uses assemblies requiring a newer .NET Framework, your project will fail to build. You can change the .NET Framework version by clicking Properties on the project menu and then selecting a new version in the '.NET Framework' dropdown box. (In Visual Basic, this is located on the Compile tab by clicking the 'Advanced Compiler Options...' button.)">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Plugin_Winamp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Plugin_Winamp" Source="Plugin_Winamp\Plugin_Winamp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Plugin_Winamp.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="Plugin_Winamp.sln" Description="No Conversion Required">
+</Event><Event ErrorLevel="0" Project="Plugin_Winamp" Source="Plugin_Winamp\Plugin_Winamp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

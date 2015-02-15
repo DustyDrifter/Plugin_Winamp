@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Settings>
+    <Key>dsppath</Key>
+    <Value>C:\Program Files\RadioDJv1.6.2.5\Plugins</Value>
+  </Settings>
+  <Settings>
+    <Key>selectedPlugin</Key>
+    <Value>1</Value>
+  </Settings>
+  <Settings>
+    <Key>selectedModule</Key>
+    <Value>0</Value>
+  </Settings>
+</NewDataSet>
